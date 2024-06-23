@@ -1,6 +1,7 @@
 # Shopping Trends Analysis
 
 ### Project Overview
+---
 
 The shopping trend dataset aims to provide a comprehensive overview of customer behavior and sales performance across various dimensions. This project aims to leverage this dataset to gain insights into customer demographics, purchasing patterns, and sales trends.
 
@@ -42,12 +43,20 @@ The analysis results are summarized as follows:
 2. 68% of the customers are male, and 32% are female.
 3. Discounted items account for 42.65% of total sales.
 
+![Dashboard 1](https://github.com/OladimejiA17/Shopping-Trend-Analysis/assets/173624437/039477bb-41f1-4487-8416-95924babc2c1)
+
 ### Recommendations
 
 Based on the analysis, we recommend the following actions:
 1. Develop marketing campaigns targeting male customers.
 2. Focus on high-performing locations with tailored promotions and localized marketing efforts.
 3. Continue offering discounts on popular categories like clothing and accessories to drive sales.
+
+### References
+
+https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset
+
+
 
 
 
